@@ -124,17 +124,26 @@ years_to_predict = np.arange(df['List Year'].min(), end_year + 1, 1).reshape(-1,
 # Step 3: Predict sale amounts for these years
 predicted_sale_amounts = year_sale_model.predict(years_to_predict)
 
+# Debugging: Print predicted values and the range of years
+print("Predicted Sale Amounts: ", predicted_sale_amounts)
+print("Years to Predict: ", years_to_predict.flatten())
+
 # Step 4: Plotting the predicted sale prices over the specified years
-plt.figure(figsize=(12, 6))
-plt.plot(years_to_predict, predicted_sale_amounts, color='green', linewidth=2, label='Predicted Sale Price', marker='o')  # Added marker for better visibility
+plt.figure(figsize=(14, 7))  # Increase figure size
+plt.plot(years_to_predict, predicted_sale_amounts, color='green', linewidth=2, 
+         label='Predicted Sale Price', marker='o', markersize=8)  # Increase marker size
 
 # Plot the historical data for reference
-plt.scatter(df['List Year'], df['Sale Amount'], color='blue', label='Actual Data', alpha=0.6)
+plt.scatter(df['List Year'], df['Sale Amount'], color='blue', label='Actual Data', 
+            alpha=0.6, s=100)  # Increase scatter size
 
 # Set labels and title
 plt.title(f'Sale Price Predictions from {df["List Year"].min()} to {end_year}', fontsize=16)
 plt.xlabel('Year', fontsize=14)
 plt.ylabel('Predicted Sale Price ($)', fontsize=14)
+
+# Adjust x-ticks to show every 2 years
+plt.xticks(np.arange(df['List Year'].min(), end_year + 1, 2))
 
 # Add grid
 plt.grid(True)
