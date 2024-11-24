@@ -11,6 +11,8 @@ or applicability of its content for any specific individual. Users should consul
 for advice tailored to their personal health needs and circumstances. In case of emergency or urgent health concerns, 
 please seek immediate medical attention from a licensed professional.
 
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2icp22po6iej.cloudfront.net%2Fwp-content%2Fuploads%2F2018%2F08%2FPD-AND-THE-HEART3.jpeg&f=1&nofb=1&ipt=bf3b2271b9805e4d026d0a0183c07a20bca35f442597babe5e26b8218948adfe&ipo=images
+
 ## Project Description
 The purpose of this project is to create a machine learning model that uses a Random Forest classifier 
 to predict the likelihood of cardiovascular disease based on various features 
