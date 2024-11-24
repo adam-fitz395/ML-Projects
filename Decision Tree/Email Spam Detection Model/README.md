@@ -1,4 +1,6 @@
 # Email Spam Detection
+
+![alt](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.smythacademy.com%2Fwordpress%2Fwp-content%2Fuploads%2F2016%2F06%2Fspam.png&f=1&nofb=1&ipt=efd6755b52bf697d989d3aea506d1c55286591caf30e05b899f4c97359dd8475&ipo=images)
 ## Project Description
 The purpose of this project is to create a machine learning model that uses a Random Forest classifier 
 to predict whether an email is "Spam" or "Not Spam" based on features extracted from the email data.
