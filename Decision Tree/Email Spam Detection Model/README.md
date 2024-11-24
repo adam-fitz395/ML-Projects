@@ -34,6 +34,8 @@ single tree might make, especially when the data is complex.
 ## Online & Sources
 https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv/
 
+https://www.activecampaign.com/blog/spam-words
+
 https://matplotlib.org/stable/users/index
 
 https://scikit-learn.org/stable/api/
@@ -41,4 +43,7 @@ https://scikit-learn.org/stable/api/
 https://pandas.pydata.org/docs/user_guide/index.html
 
 ## Tools & Technologies Used
-Listed below are some the tools and technologies I used when creating this model:
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Scikit-learn (Sklearn)

@@ -79,7 +79,11 @@ This approach helps the model make more accurate predictions and avoid mistakes 
 single tree might make, especially when the data is complex.
 
 ## Online & Sources
+https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset/data
+
 https://en.wikipedia.org/wiki/Blood_pressure
+
+https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
 
 https://www.thecalculatorsite.com/articles/health/bmi-formula-for-bmi-calculations.php
 
@@ -90,3 +94,7 @@ https://scikit-learn.org/stable/api/
 https://pandas.pydata.org/docs/user_guide/index.html
 
 ## Tools & Technologies Used
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Scikit-learn (Sklearn)
