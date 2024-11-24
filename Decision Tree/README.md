@@ -24,4 +24,4 @@ See [here](https://github.com/adam-fitz395/ML-Projects/tree/main/Decision%20Tree
 This model uses a Random Forest classifier 
 to predict whether an email is "Spam" or "Not Spam" based on features extracted from the email data.
 
-See here for more details.
+See [here](https://github.com/adam-fitz395/ML-Projects/tree/main/Decision%20Tree/Email%20Spam%20Detection%20Model) for more details.
