@@ -16,7 +16,7 @@ please seek immediate medical attention from a licensed professional.
 This model uses a Random Forest classifier to predict the likelihood 
 of cardiovascular disease based on various features related to a patient's health and lifestyle. 
 
-See here for more details.
+See [here](https://github.com/adam-fitz395/ML-Projects/tree/main/Decision%20Tree/Cardiovascular%20Disease%20Model) for more details.
 
 ## Email Spam Detection Model
 
