@@ -49,10 +49,6 @@ It assumes that the categories have a natural ranking and assigns them an intege
 ## Online & Sources
 https://www.kaggle.com/datasets/xavierberge/road-accident-dataset
 
-https://www.activecampaign.com/blog/spam-words
-
-https://matplotlib.org/stable/users/index
-
 https://scikit-learn.org/stable/api/
 
 https://pandas.pydata.org/docs/user_guide/index.html
@@ -65,7 +61,6 @@ https://www.geeksforgeeks.org/how-to-perform-ordinal-encoding-using-sklearn/
 ## Tools & Technologies Used
 - Jupyter Notebook
 - Pandas
-- Matplotlib
 - Scikit-learn (Sklearn)
 - Imblearn
 - Ipywidgets
