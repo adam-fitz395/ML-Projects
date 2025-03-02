@@ -15,7 +15,6 @@ which may not account for all individual clinical, genetic, or contextual factor
 The data for this model can be found [here](https://www.kaggle.com/datasets/asinow/schizohealth-dataset).
 
 ## Pre-processing
-The data for this project can be found [here](https://www.kaggle.com/datasets/asinow/schizohealth-dataset). 
 Once the data has been imported we drop all rows that contain an empty or NaN value. 
 After this we rename the columns, converting them from Turkish to English. 
 The `Age` column is then converted into categories (1–6) representing age groups.
