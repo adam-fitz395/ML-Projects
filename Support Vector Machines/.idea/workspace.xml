@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94234999-45cc-44a9-84eb-78eaa459bdfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Schizophrenia/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../K Means Cluster/.idea/K Means Cluster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../K Means Cluster/.idea/K Means Cluster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../K Means Cluster/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../K Means Cluster/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Schizophrenia/vector.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schizophrenia/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schizophrenia/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schizophrenia/vector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Schizophrenia/vector.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +59,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
-        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -84,6 +81,8 @@
       <workItem from="1740730383783" duration="1719000" />
       <workItem from="1740741649165" duration="1140000" />
       <workItem from="1740930188852" duration="206000" />
+      <workItem from="1740930365079" duration="365000" />
+      <workItem from="1740930739762" duration="2431000" />
     </task>
     <servers />
   </component>
