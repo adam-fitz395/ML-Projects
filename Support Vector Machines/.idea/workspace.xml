@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94234999-45cc-44a9-84eb-78eaa459bdfc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../K Means Cluster/.idea/K Means Cluster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../K Means Cluster/.idea/K Means Cluster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../K Means Cluster/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../K Means Cluster/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../K Means Cluster/cluster.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../K Means Cluster/cluster.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schizophrenia/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schizophrenia/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schizophrenia/vector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Schizophrenia/vector.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="94234999-45cc-44a9-84eb-78eaa459bdfc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +77,7 @@
       <workItem from="1740741649165" duration="1140000" />
       <workItem from="1740930188852" duration="206000" />
       <workItem from="1740930365079" duration="365000" />
-      <workItem from="1740930739762" duration="5293000" />
+      <workItem from="1740930739762" duration="6018000" />
     </task>
     <servers />
   </component>
